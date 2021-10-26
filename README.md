@@ -43,11 +43,30 @@ This repository provides a framework for the approval process required for build
 ### Mt Buller & Mt Stirling
 ![image](https://user-images.githubusercontent.com/146181/138799239-476e7040-c62a-4931-b109-c2757015e92f.png)
 
-Typtical overlays for all properties, include: 
+#### Typtical overlays for all properties, include: 
  - [ ] Crown Land, 
  - [ ] BMO = Bushfire Management Overlay, 
  - [ ] BPA = Bushfire Prone Area, 
  - [ ] EMO = Erosion Management Overlay
  - [ ] CDZ1 = Comprehensive Development Zone Alpine
+
+#### Resort Board Management (RMB) application requirements:
+Consent process: (1) consent request submitted to RMB (see below documents) --> (2) RMB conduct review of documents --> (3) RMB and/or CEO approves consent --> (4) Executed consent returned --> (5) Settlement of transaction.
+  - [ ] Board consent form
+  - [ ] ASIC company current listing of directors and shareholders
+  - [ ] Share certificate
+  - [ ] Approval by head lessee
+  - [ ] Evidence of solvency & financial responsibility, e.g. financial statements, sworn statements of assests and liabilities, business references, deed of guarantors and indemnity
+  - [ ] Contract of sale
+  - [ ] Transfer of lease
+  - [ ] Notice of disposition
+  - [ ] Discharge of mortgage
+  - [ ] Standard share transform form
+  - [ ] Certificate of incopration
+  - [ ] Articles and memorandum of association or constitution
+  - [ ] Public liability insurance
+  - [ ] Transfer of land
+  - [ ] Mortgage, e.g. head lease, shares, sub lease
+  - [ ] Share of security deed
 
 
