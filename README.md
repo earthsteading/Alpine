@@ -1,5 +1,5 @@
 # Alpine structures and infrastructures
-This repository provides a framework for the approval process required for building structures and infrastructures on crown land, including: 
+This repository provides a framework for the approval process required for building structures and infrastructures on crown land in Asutralian alpine environments, including: 
 ![image](https://user-images.githubusercontent.com/146181/138798555-5a0a78e3-de11-45b7-a34c-51798225454d.png)
 Location map identifier:
 (1) Kiandra (NSW)
@@ -32,7 +32,7 @@ Location map identifier:
 (28) Great Lake Area (Tas.)
 (29) Mount Field Ski Field (Tas.)
 
-## Oversight
+## Oversight of alpine areas
  - [ ] ![image](https://user-images.githubusercontent.com/146181/138798450-2a589486-f63c-43c6-9aa0-74acddf075c6.png)
  - [ ] Alpine Resorts Commission (mt Baw Baw, Falls Creek, Mt Hotham, My Stirling, Lake Mountain = https://arcc.vic.gov.au/
  - [ ] https://www.legislation.vic.gov.au/as-made/acts/alpine-resorts-management-act-1997 
@@ -42,7 +42,8 @@ Location map identifier:
 
 ### Mt Buller & Mt Stirling
 ![image](https://user-images.githubusercontent.com/146181/138799239-476e7040-c62a-4931-b109-c2757015e92f.png)
- - [ ] Typtical overlays for all property: 
+
+Typtical overlays for all properties, include: 
  - [ ] Crown Land, 
  - [ ] BMO = Bushfire Management Overlay, 
  - [ ] BPA = Bushfire Prone Area, 
