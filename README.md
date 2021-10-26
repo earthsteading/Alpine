@@ -1,7 +1,7 @@
 # Alpine structures and infrastructures
-This repository provides a framework for the approval process required for building structures and infrastructures on crown land in Asutralian alpine environments, including: 
-![image](https://user-images.githubusercontent.com/146181/138798555-5a0a78e3-de11-45b7-a34c-51798225454d.png)
-Location map identifier:
+This repository provides a framework for the approval process required for building structures and infrastructures on crown land in Australian alpine environments, including: 
+ - ![image](https://user-images.githubusercontent.com/146181/138798555-5a0a78e3-de11-45b7-a34c-51798225454d.png)
+ - Location map identifier:
 (1) Kiandra (NSW)
 (2) Mount Kosciuszko (NSW)
 (3) Perisher Valley (NSW)
