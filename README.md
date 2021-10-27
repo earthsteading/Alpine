@@ -78,7 +78,7 @@ General:
  - [ ] Safety first, esp trench support, barricades, warning signs and measures to control pedestrians traffic
  - [ ] Works must be completed within 12 months from date of agreement with RMB
  - [ ] Comply with AS/NZS 2500 and 1989 Water Act, 2014 Water Regulation for flow estimation, supply and sewage
- - [ ] All required permits availabe on site upon request
+ - [ ] All required permits available on site upon request
 
 Water tapping:
  - [ ] Only one connection per water/sewage point per site
@@ -86,26 +86,27 @@ Water tapping:
  - [ ] Tenant contract must contact RMB 2 days prior to water tapping
  - [ ] All parts must be on site prior to requesting tapping
  - [ ] Minimum excavation size is 900x900mm and free from water
- - [ ] All tapping material must comply with AS/NZS3500 and [Goulbun Murry Water approved equipment list](https://mrwa.com.au/Pages/Products.aspx)
- - [ ] Tapped offtake repair clampsare to be stainless steel 316, minimum 2-bolted type with tpfnr ferrule
+ - [ ] All tapping material must comply with AS/NZS3500 and [Goulburn Murray Water approved equipment list](https://mrwa.com.au/Pages/Products.aspx)
+ - [ ] Tapped offtake repair clamps are to be stainless steel 316, minimum 2-bolted type with tpfnr ferrule
  - [ ] For shutdowns works a booking five days in advance to be requested. Shutdown cannot exceed 90minutes.
- - [ ] Tappings larger than 40mm and fire service tappings are to be booked 48 hours in advance and conducted under pressure by a hydraulic tapping service coampny followed by RMB prior to backfilling.
+ - [ ] Tappings larger than 40mm and fire service tappings are to be booked 48 hours in advance and conducted under pressure by a hydraulic tapping service company followed by RMB prior to backfilling.
  - [ ] For pipe bursting works on an AC main, booking and inspection with the RMB required
 
 Sewer connections
- - [ ] RMB permissions must be provided prior to begininning works
+ - [ ] RMB permissions must be provided prior to beginning works
  - [ ] Contractor 'cut and seal' work must be booked with the RMB and inspected
  - [ ] An 'as constructed plan' must be provided to the RMB within 5 days of completing works
  - [ ] Minimum excavation size is 900mm (width) x 1800mm (length) x 500mm (depth, below invert of pipe)
 
 Fire services
- - [ ] All pipework (other than main isolation valve) are the responsibility of owner including pipeowrk under public/private accessways.  Fire services are private work with maitenance requirements required.
+ - [ ] All pipeworks (other than the main isolation valve) are the responsibility of the owner including pipework under public/private accessways.  Fire services are private work with maintenance requirements required.
  - [ ] Water taken from private fire services must only be used to fight fires
- - [ ] Booster pumps are not allowed from water mains to fire services.  Excemptions for use of mains water for fire may be requested.
+ - [ ] Booster pumps are not allowed from water mains to fire services.  Exemptions for use of mains water for fire may be requested.
 
 Stormwater connection
  - [ ] All drainage and stormwater plans must be provided to the RMB, and may require engineering consult
- - [ ] Stormwwater must drain to the legal point of discharge
+ - [ ] Stormwater must drain to the legal point of discharge
  - [ ] RMB must provide written consent for drainage of water to adjoining sites or crown land
 
 Reference: https://dc0b3a3e-6027-4943-8bb4-858433a866f2.filesusr.com/ugd/2f722f_7c7c22b5c7ee437b97f59b73267dc84e.pdf
+
