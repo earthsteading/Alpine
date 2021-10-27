@@ -34,7 +34,7 @@ This repository provides a framework for the approval process required for build
 
 ## Oversight of alpine areas
  - [ ] ![image](https://user-images.githubusercontent.com/146181/138798450-2a589486-f63c-43c6-9aa0-74acddf075c6.png)
- - [ ] Alpine Resorts Commission (mt Baw Baw, Falls Creek, Mt Hotham, My Stirling, Lake Mountain = https://arcc.vic.gov.au/
+ - [ ] Alpine Resorts Commission (Mt Baw Baw, Falls Creek, Mt Hotham, My Stirling, Lake Mountain = https://arcc.vic.gov.au/
  - [ ] https://www.legislation.vic.gov.au/as-made/acts/alpine-resorts-management-act-1997 
  - [ ] https://arcc.vic.gov.au/strat-plan-callouts/economic-significance-of-victorias-alpine-resorts/ 
  - [ ] ![image](https://user-images.githubusercontent.com/146181/138798915-06f8a4dc-717d-4b0a-80ea-9768b94f06a9.png)
@@ -44,11 +44,11 @@ This repository provides a framework for the approval process required for build
 ![image](https://user-images.githubusercontent.com/146181/138799239-476e7040-c62a-4931-b109-c2757015e92f.png)
 
 #### Typtical overlays for all properties, include: 
- - [ ] Crown Land Leasehold requirements
- - [ ] BMO = Bushfire Management Overlay, 
- - [ ] BPA = Bushfire Prone Area, 
- - [ ] EMO = Erosion Management Overlay
- - [ ] CDZ1 = Comprehensive Development Zone Alpine
+ - [ ] Crown Land leasehold requirements are defined by the Land Titles Act 1925 and enforced in each state by a Crown Land Management Act, typical legal land overlays for alpine environments include:
+ - [ ] BMO = Bushfire Management overlay, 
+ - [ ] BPA = Bushfire Prone Area overlay,
+ - [ ] EMO = Erosion Management overlay, and
+ - [ ] CDZ1 = Comprehensive Development Zone Alpine.
 
 #### Resort Board Management (RMB) application requirements:
 Consent process: (1) consent request submitted to RMB (see below documents) --> (2) RMB conduct review of documents --> (3) RMB and/or CEO approves consent --> (4) Executed consent returned --> (5) Settlement of transaction.
