@@ -112,4 +112,5 @@ Reference:
  - [ ] https://dc0b3a3e-6027-4943-8bb4-858433a866f2.filesusr.com/ugd/2f722f_7c7c22b5c7ee437b97f59b73267dc84e.pdf
  - [ ] [Leasing requirements checklist by Mt Buller](https://dc0b3a3e-6027-4943-8bb4-858433a866f2.filesusr.com/ugd/2f722f_2d04b2c2720043bc8fee122428d7a8f8.pdf)
  - [ ] [2002 Alpine resorts leasing management guidelines](https://dc0b3a3e-6027-4943-8bb4-858433a866f2.filesusr.com/ugd/2f722f_fc55e3a6a4f2473c81c4c908b1d4ed4a.pdf)
+ - [ ] [VicGov Alpine Resorts Planning](https://www.planning.vic.gov.au/permits-and-applications/specific-permit-topics/alpine-resorts-planning-information)
 
