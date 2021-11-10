@@ -108,5 +108,7 @@ Stormwater connection
  - [ ] Stormwater must drain to the legal point of discharge
  - [ ] RMB must provide written consent for drainage of water to adjoining sites or crown land
 
-Reference: https://dc0b3a3e-6027-4943-8bb4-858433a866f2.filesusr.com/ugd/2f722f_7c7c22b5c7ee437b97f59b73267dc84e.pdf
+Reference: 
+ - [ ] https://dc0b3a3e-6027-4943-8bb4-858433a866f2.filesusr.com/ugd/2f722f_7c7c22b5c7ee437b97f59b73267dc84e.pdf
+ - [ ] [Leasing requirements checklist by Mt Buller](https://dc0b3a3e-6027-4943-8bb4-858433a866f2.filesusr.com/ugd/2f722f_2d04b2c2720043bc8fee122428d7a8f8.pdf)
 
