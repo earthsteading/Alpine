@@ -1,10 +1,29 @@
-# Inspection checklist for Alpine Snow guards in Australia
+# Inspection checklist for alpine snow guard rails
+
+This checklist is written to enable the checking of alpine snow guards in the Australian alpine environment.
 
 ## Standards, legislation and term definitions
 
-  - [ ] AS1170 part
-  - [ ] Weatherproof finishes of guards: mill finish or powder coating
-  - [ ] 
+  - [ ] NCC 2019 Volume Two Amendment 1 Part 3.10.4 Construction in Alpine Areas > Performance P2.7.4 Buildings in alpine areas
+  - [ ] AS1170 Part 3 structural design actions: snow and ice actions (2003, Reconfirmed 2016)
+  - [ ] ASxxxx = Weatherproofing finishing of guards: mill finish or powder coating
+  - [ ] other
+
+## Risk mitigation
+Significant risks to mitigate in snow guard design:
+ 1. Structural load --> roof collapse
+ 2. Penetrations in roof to attach snow guards --> roof leaking
+ 3. Ice blocking the gutters --> gutters being damaged, falling off
+ 4. Icicles forming along the roof eaves --> falling on people/property below
+ 5. Significant snow storm building up snow higher than the snow guards/rails can hault --> roof snow avalanche
+
+![image](https://user-images.githubusercontent.com/146181/216205733-f09571e8-4651-4ca9-bedf-549e7d191e72.png)
+
+  - [ ] Has an engineer approved the roof load weights which will be experienced in the alpine environment, especially snow weight and wind force?
+  - [ ] Is the lateral force of the snow on the snow guard able to withstand the weight of snow from a 1 in 100 year snow storm?
+  - [ ] Are the penetration made in the roof to secure the snow guards going to compromise the weatherproofing of the roof, especially leaks?
+  - [ ] Are the eaves and gutters able to withstand the amount of snow, ice and water which will be contained by the snow guards atop the roof?
+  - [ ] Will people/property be endangered by icicles forming and falling from the roof eaves onto the ground below?
 
 ## Snow guard schematics
 
