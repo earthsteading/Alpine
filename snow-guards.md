@@ -1,6 +1,6 @@
 # Inspection checklist for alpine snow guard rails
 
-This checklist is written to enable the checking of alpine snow guards in the Australian alpine environment.
+This checklist is written to enable the checking of alpine snow guards in the Australian alpine environment, to ensure the safety of people and property from snow and ice falling from roofs.
 
 ## Standards, legislation and term definitions
 
@@ -42,7 +42,8 @@ Significant risks to mitigate in snow guard design:
 ![image](https://user-images.githubusercontent.com/146181/216207212-7cf44b1c-6fc2-4d24-9407-7626faa223e5.png)
 ![image](https://user-images.githubusercontent.com/146181/216207146-c31084ed-12e1-42c4-91f2-7edaedfab635.png)
 
-
+# Pics
+![image](https://user-images.githubusercontent.com/146181/216451384-1e753ca2-0884-4308-9f91-95f12a5123ed.png)
 
 
 
